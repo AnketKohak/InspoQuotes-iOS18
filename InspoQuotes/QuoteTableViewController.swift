@@ -2,8 +2,7 @@
 //  QuoteTableViewController.swift
 //  InspoQuotes
 //
-//  Created by Angela Yu on 18/08/2018.
-//  Copyright © 2018 London App Brewery. All rights reserved.
+//  Created by Anket Kohak on 19/08/2024
 //
 
 import UIKit
